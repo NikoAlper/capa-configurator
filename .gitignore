@@ -1,0 +1,13 @@
+# Next.js build klasörleri
+.next
+out
+
+# Node modülleri
+node_modules
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Ortam değişkenleri (Firebase vb.)
+.env.local
